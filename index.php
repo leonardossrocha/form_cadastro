@@ -25,7 +25,7 @@
 			</div></br>
 			<div>
 				<label>senha</label>
-				<input type="password" name="senha" placeholder="senha"></textarea>
+				<input type="password" name="senha" placeholder="senha"/>
 			</div></br>
 			<div>
 				<label>Opinião/Sugestão</label>
